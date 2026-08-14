@@ -71,7 +71,7 @@ contexto e orientem ações voltadas à redução dessas taxas.
 
 **Limitações conhecidas dos dados:**
 - SIM: várias colunas com valores nulos acima de 70%.
-- CID-10: no momento, nenhuma limitação identificada.
+- CID-10: há códigos faltantes.
 - CNE: cobertura temporal de ago/2005 a nov/2025.
 - IBGE: dados referentes a 2024.
 - Artigo 1 – Mortes Evitáveis SUS: artigo de 2007.
