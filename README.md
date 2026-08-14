@@ -171,13 +171,13 @@ Investigando as particularidades do município de Vila Pavão, mapeou-se o segui
 ![Proporção evitável pelo perfil das vítimas](image-4.png)
 
 **Análise geográfica**
-![Aba 1](image-8.png)
+![Análise geográfica](image-8.png)
 
 **Perfil das vítimas**
-![Aba 2](image-9.png)
+![Perfil das vítimas](image-9.png)
 
 **Monitoramento de prioridades**
-![Aba 3](image-10.png)
+![Monitoramento de prioridades](image-10.png)
 
 ---
 
