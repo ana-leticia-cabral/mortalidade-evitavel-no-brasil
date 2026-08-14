@@ -169,7 +169,7 @@ Investigando as particularidades do município de Vila Pavão, mapeou-se o segui
 
 ![Proporção evitável por estado](image-3.png)
 
-**Gráficos 3, 4 ** — Proporção evitável pelo perfil das vítimas
+**Gráficos 3, 4** — Proporção evitável pelo perfil das vítimas
 
 ![Proporção evitável pelo perfil das vítimas](image-4.png)
 
@@ -192,15 +192,15 @@ Os artigos do Ministério da Saúde utilizados como referência técnica, escrit
  
 É preocupante que mais da metade dos óbitos registrados no SIM nos dois anos analisados se enquadrem nesses critérios de evitabilidade. Chama ainda mais atenção que estados como Espírito Santo e Tocantins — os dois com maior proporção no gráfico construído nesta análise — estejam acima da proporção nacional.
  
-**Gráfico 6** — Proporção evitável nacional
+Proporção evitável nacional
  
 ![Proporção nacional](image-5.png)
  
-**Gráfico 7** — Proporção evitável, Espírito Santo
+Proporção evitável, Espírito Santo
  
 ![Proporção Espirito Santo](image-6.png)
  
-**Gráfico 8** — Proporção evitável, Tocantins
+Proporção evitável, Tocantins
  
 ![Proporção Tocantins](image-7.png)
  
