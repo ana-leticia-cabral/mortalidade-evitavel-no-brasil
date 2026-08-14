@@ -56,9 +56,8 @@ contexto e orientem ações voltadas à redução dessas taxas.
 | Nº de registros | 3.060.100 |
 | Nº de registros filtrados | 1.767.268 |
 | Granularidade | Por óbito |
-| Dicionário de dados | [Dicionário SIM](Dicionario_SIM_2025.pdf) |
+| Dicionário de dados |[Dicionário SIM](FonteDeDados/Dicionario_SIM_2025.pdf) |
 
-![Coleta dos dados SIM](SIM.png)
 
 ### Fontes complementares
 
