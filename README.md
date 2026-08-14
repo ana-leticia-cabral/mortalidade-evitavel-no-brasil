@@ -1,9 +1,13 @@
 # Mortalidade evitável no Brasil
 
 > **Analista de dados:** Ana Letícia Cabral do Rosário
+
 > **Data de início:** [08/07/2026] — Coleta dos dados
+
 > **Data de conclusão:** [14/08/2026] 
+
 > **Status do projeto:** 🟢 Concluído 
+
 > **Link do dashboard:** https://app.powerbi.com/view?r=eyJrIjoiZmVkYWY3NjktMDNhYi00YmEyLTk5MmYtMjY5NmU0NmZhYzIxIiwidCI6Ijk0MDBmNTdkLWIwY2EtNGQzOC1iNzA5LWYxYTA3ZDIyMTY4NyJ9
 
 ---
